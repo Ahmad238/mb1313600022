@@ -211,3 +211,6 @@ Comments: Personally I don't have any problem with the idea. But are you really 
 I want to make an application that can show peapole destination and what they can see in Kepulauan Seribu. 
 
 Reasons: Usually, I won't accept idea related to tourism. Due to hardness of the proofing ever visited traveler which I have explained this on class. However I do knew you have Pulau Seribu Travelers circle. Therefore I accept on a condition, please make profile of 3 users which have this experience. And please complete the mockup properly.  
+
+### 1313618019 (Ahmad Al Jufri)
+I want to create an Islamic news application. So Muslims can find out the latest news about Islam in this country.
